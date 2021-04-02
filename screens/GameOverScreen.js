@@ -35,9 +35,9 @@ const styles = StyleSheet.create({
         alignItems: 'center'
     },
     imageContainer: {
-        width: 300,
-        height: 300,
-        borderRadius: 150,
+        width: 260,
+        height: 260,
+        borderRadius: 130,
         borderWidth: 3,
         borderColor: 'black',
         overflow: 'hidden',

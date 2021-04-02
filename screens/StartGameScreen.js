@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { View, Text, StyleSheet, Button, TouchableWithoutFeedback, Keyboard, Alert } from 'react-native'
+import { View, StyleSheet, Button, TouchableWithoutFeedback, Keyboard, Alert } from 'react-native'
 
 import BodyText from '../components/BodyText'
 import TitleText from '../components/TitleText'
